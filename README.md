@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syama-github&label=Profile%20views&color=0e75b6&style=flat" alt="syama-github" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syama-github" alt="syama-github" /></a> </p>
-
 - 🌱 I’m currently learning **Javascript,Python**
 
 - 📫 How to reach me **syamasasikumar05@gmail.com**
